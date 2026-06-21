@@ -159,5 +159,3 @@ Este projeto foi desenvolvido para demonstrar o uso de:
 * desenvolvimento de aplicações web
 * organização e consulta de dados biológicos
 
-
-```
